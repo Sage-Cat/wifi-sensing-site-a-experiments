@@ -1406,7 +1406,7 @@
     "observed_last_record_utc": "2026-08-13T14:23:21.771587+00:00",
     "observed_span_seconds": 86399.618499826,
     "raw_compressed_bytes": 888407717,
-    "run_id": "run-20260812t142321z-shop-natural-occupancy-24h",
+    "run_id": "public-site-a-run-01",
     "scheduled_duration_seconds": 86400,
     "source_id": "sensor-node-b",
     "start_utc": "2026-08-12T14:23:21.763Z",

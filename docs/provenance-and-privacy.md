@@ -2,7 +2,7 @@
 
 ## Research independence
 
-The AutoCenter experiments were designed, installed, operated, analyzed, and
+The Site A experiments were designed, installed, operated, analyzed, and
 published by an independent individual researcher. The work was self-funded.
 There were no sponsors, grants, commercial funders, sponsor-directed research
 questions, or sponsor approval rights. Product and project names identify

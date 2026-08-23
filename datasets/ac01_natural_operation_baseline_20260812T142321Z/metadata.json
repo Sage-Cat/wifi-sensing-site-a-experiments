@@ -1,7 +1,7 @@
 {
   "bundle_id": "ac01_natural_operation_baseline_20260812T142321Z",
   "program_id": "AC01",
-  "series": "AutoCenter operational sensing",
+  "series": "Site A operational sensing",
   "campaign": "August-2026 operational retail",
   "topology": "single-sensor-single-collector",
   "condition": "natural-production-network",
@@ -21,7 +21,7 @@
     "network_payload_collection": false,
     "public_interpretation": "unlabelled aggregate radio-environment context only"
   },
-  "source_bundle": "experiments/runs/run-20260812t142321z-shop-natural-occupancy-24h",
+  "source_bundle": "withheld-private-session-site-a-01",
   "collection": {
     "mode": "unlabelled-natural-operation",
     "started_utc": "2026-08-12T14:23:21.763Z",

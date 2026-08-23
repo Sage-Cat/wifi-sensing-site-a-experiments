@@ -1,7 +1,7 @@
 # AC03 multiband endurance with prplOS context
 
 - Bundle: `ac03_multiband_endurance_prplos_20260814T135053Z`
-- Series/experiment: `AutoCenter / AC03`
+- Series/experiment: `Site A / AC03`
 - Condition: unchanged production Wi-Fi during natural retail operation
 - S3 duration: 72,000 seconds per node, two nodes, autonomous
 - C5-A duration: 64,800 seconds, autonomous and independently timed

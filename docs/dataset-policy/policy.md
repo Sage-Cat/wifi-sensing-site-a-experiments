@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Publish reproducible AutoCenter operational measurements without disclosing
+Publish reproducible Site A operational measurements without disclosing
 private infrastructure, credentials, exact site identity, or internal workflow
 material. `datasets/manifest.json` is the authoritative per-bundle inclusion
 record.

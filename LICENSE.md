@@ -7,8 +7,8 @@ is available under the following terms:
   licensed under the MIT License below.
 - The published datasets, metadata, reports, and documentation are licensed
   under the [Creative Commons Attribution 4.0 International License][cc-by].
-  The preferred attribution is: “AutoCenter Public Experiments, Sage-Cat,
-  https://github.com/Sage-Cat/autocenter-public-experiments”. To the extent
+  The preferred attribution is: “Wi-Fi Sensing Site A Experiments, Sage-Cat,
+  https://github.com/Sage-Cat/wifi-sensing-site-a-experiments”. To the extent
   copyright or database rights apply, this grant covers those rights.
 
 Names, trademarks, and independently licensed third-party software or hardware

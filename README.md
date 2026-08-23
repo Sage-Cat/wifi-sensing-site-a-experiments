@@ -1,8 +1,9 @@
-# autocenter-public-experiments
+# Wi-Fi Sensing Site A Experiments
 
-Public measured data from operational Wi-Fi sensing experiments conducted in
-the AutoCenter retail building. This is an independent experiment series; its
-identifiers use the `AC` prefix and are not part of the CWS Lab `D` series.
+Public measured data from the legacy `AC` operational Wi-Fi sensing series at
+an anonymized site. The public identifier `site-a` deliberately does not reveal
+the private location identity. `AC` bundle IDs remain stable provenance IDs and
+are not part of the legacy `D` series.
 
 The repository publishes sanitized measurements, integrity ledgers, bounded
 analysis, and the sanitizers needed to reconstruct the public representation
@@ -74,7 +75,7 @@ observed as natural interference and was not reconfigured for these runs.
 
 ## Identifier convention
 
-- `ACNN`: AutoCenter operational experiment number.
+- `ACNN`: stable public experiment code within this dataset series.
 - `YYYYMMDDThhmmssZ`: UTC collection-start suffix.
 
 Identifiers describe this repository only. Detailed topology and condition are

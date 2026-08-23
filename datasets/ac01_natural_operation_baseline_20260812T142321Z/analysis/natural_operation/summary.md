@@ -1,6 +1,6 @@
 # AC01 natural-operation CSI run: 24-hour analysis
 
-Run `run-20260812t142321z-shop-natural-occupancy-24h` completed normally and spans 23.9999 observed hours.
+Public run `public-site-a-run-01` completed normally and spans 23.9999 observed hours.
 Before sanitization, all 294 source-archive checksum entries verified; the
 archive contains 288 finalized chunks and no partial chunks. The public bundle
 has independently regenerated chunks, ledger hashes, and `SHA256SUMS`.

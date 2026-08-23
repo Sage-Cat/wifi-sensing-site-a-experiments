@@ -1,10 +1,10 @@
 {
-  "repository": "autocenter-public-experiments",
-  "series": "AutoCenter operational sensing",
+  "repository": "wifi-sensing-site-a-experiments",
+  "series": "Site A operational sensing",
   "generated_at": "2026-08-15T19:53:08+03:00",
   "license": {
     "data_and_documentation": "CC-BY-4.0",
-    "preferred_attribution": "AutoCenter Public Experiments, Sage-Cat, https://github.com/Sage-Cat/autocenter-public-experiments",
+    "preferred_attribution": "Wi-Fi Sensing Site A Experiments, Sage-Cat, https://github.com/Sage-Cat/wifi-sensing-site-a-experiments",
     "software": "MIT"
   },
   "provenance": {
@@ -19,7 +19,7 @@
       "bundle_id": "ac01_natural_operation_baseline_20260812T142321Z",
       "program_id": "AC01",
       "status": "published-claim-grade-for-stability-and-timing-only",
-      "source_bundle": "experiments/runs/run-20260812t142321z-shop-natural-occupancy-24h",
+      "source_bundle": "withheld-private-session-site-a-01",
       "included_surfaces": [
         "metadata.json",
         "runbook.md",
@@ -53,7 +53,7 @@
       "bundle_id": "ac02_failure_aware_adaptive_prplos_20260813T173202Z",
       "program_id": "AC02",
       "status": "published-claim-grade-for-timing-failure-and-policy-accounting",
-      "source_bundle": "experiments/runs/run-20260813t173202z-shop-adaptive-mean-to-1400",
+      "source_bundle": "withheld-private-session-site-a-02",
       "included_surfaces": [
         "metadata.json",
         "runbook.md",

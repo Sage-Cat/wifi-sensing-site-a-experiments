@@ -1,7 +1,7 @@
 {
   "bundle_id": "ac02_failure_aware_adaptive_prplos_20260813T173202Z",
   "program_id": "AC02",
-  "series": "AutoCenter operational sensing",
+  "series": "Site A operational sensing",
   "campaign": "August-2026 operational retail",
   "topology": "two-sensor-two-collector-plus-prplos-context",
   "condition": "natural-production-network",
@@ -21,7 +21,7 @@
     "network_payload_collection": false,
     "public_interpretation": "unlabelled aggregate radio-environment context plus researcher-operated reset trials"
   },
-  "source_bundle": "experiments/runs/run-20260813t173202z-shop-adaptive-mean-to-1400",
+  "source_bundle": "withheld-private-session-site-a-02",
   "collection": {
     "mode": "unlabelled-operational-adaptive",
     "started_utc": "2026-08-13T17:32:02.154Z",

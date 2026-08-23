@@ -1,7 +1,7 @@
 {
   "bundle_id": "ac03_multiband_endurance_prplos_20260814T135053Z",
   "program_id": "AC03",
-  "series": "AutoCenter operational sensing",
+  "series": "Site A operational sensing",
   "campaign": "August-2026 operational retail",
   "condition": "natural-production-network",
   "status": "claim-grade-for-endurance-integrity-and-bounded-policy-accounting",

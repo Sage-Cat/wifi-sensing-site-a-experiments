@@ -1,6 +1,6 @@
 # Datasets
 
-This directory contains the independent AutoCenter (`AC`) measured series.
+This directory contains the independent Site A (`AC`) measured series.
 `manifest.json` is the authoritative publication index.
 
 Each bundle contains sanitized metadata, a runbook, operator notes, complete

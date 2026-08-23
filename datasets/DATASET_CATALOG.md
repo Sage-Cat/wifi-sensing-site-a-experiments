@@ -1,6 +1,6 @@
 # Record-Level Dataset Catalog
 
-All three AutoCenter bundles already contain downloadable, measured,
+All three Site A bundles already contain downloadable, measured,
 record-level CSI/RSSI data. CSI is stored inside the `raw` field of each
 gzip-compressed NDJSON measurement envelope; it is not withheld behind a
 request form or private archive.

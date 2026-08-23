@@ -1,7 +1,7 @@
 # AC01 24-hour natural-operation baseline
 
 - Bundle: `ac01_natural_operation_baseline_20260812T142321Z`
-- Series/experiment/topology: `AutoCenter / AC01 / single sensor and collector`
+- Series/experiment/topology: `Site A / AC01 / single sensor and collector`
 - Condition: unchanged production Wi-Fi during natural retail operation
 - Duration: 24 hours, autonomous
 - Sensor: one live ESP32-S3 CSI node

@@ -1,7 +1,7 @@
 # AC02 failure-aware adaptive sensing with prplOS context
 
 - Bundle: `ac02_failure_aware_adaptive_prplos_20260813T173202Z`
-- Series/experiment/topology: `AutoCenter / AC02 / two sensing nodes plus prplOS context`
+- Series/experiment/topology: `Site A / AC02 / two sensing nodes plus prplOS context`
 - Condition: unchanged production Wi-Fi during natural retail operation
 - Scheduled duration: 62,879 seconds (17.47 hours), autonomous
 - Sensing topology: two Raspberry Pi 5 collectors with two ESP32-S3 nodes
